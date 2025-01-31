@@ -1,7 +1,7 @@
 {
   "name": "microservice-ecommerce",
   "version": "1.0.0",
-  "types": "index.d.ts",
+  "types": "src/index.d.ts",
   "author": "Justin Pallansch",
   "license": "MIT",
   "private": true,

@@ -8,6 +8,6 @@
       "@tests/*": ["tests/*"]
     }
   },
-  "include": ["src/**/*", "tests/**/*", "benchmarks/**/*"],
+  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
